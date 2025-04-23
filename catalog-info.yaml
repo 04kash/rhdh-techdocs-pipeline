@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: my-doc-entity
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  lifecycle: production
+  type: backstage-common-library
+  owner: 04kash
