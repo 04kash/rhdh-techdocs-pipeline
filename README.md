@@ -8,8 +8,8 @@ This repository contains a GitHub Actions workflow that builds and publishes Tec
 This setup uses [`techdocs-core`](https://github.com/backstage/mkdocs-techdocs-core) and [`minify`](https://github.com/byrnereese/mkdocs-minify-plugin) plugins.
 
 To add more plugins:
-1. Modify the [`mkdocs.yml`](https://github.com/04kash/techdocs-pipeline-demo/blob/main/mkdocs.yaml) file to include the desired plugin under the `plugins:` section.
-2. Modify the ["Install mkdocs and mkdocs plugins" step](https://github.com/04kash/techdocs-pipeline-demo/blob/main/.github/workflows/generate-and-publish-no-docker.yaml#L52) in the workflow to install the additonal plugins.
+1. Modify the [`mkdocs.yml`](https://github.com/redhat-developer/rhdh-techdocs-pipeline/blob/main/mkdocs.yaml) file to include the desired plugin under the `plugins:` section.
+2. Modify the ["Install mkdocs and mkdocs plugins" step](https://github.com/redhat-developer/rhdh-techdocs-pipeline/blob/main/.github/workflows/generate-and-publish-techdocs.yaml#L52) in the workflow to install the additonal plugins.
 
 ## Backstage `app-config.yaml` Setup
 
