@@ -69,4 +69,4 @@ const addThingToThing = (a, b) a + b;
 
 Here is an example:
 
-<iframe width="672" height="378" src="https://www.youtube.com/embed/LB1w8hjBt5k" title="Red Hat Developer Hub Overview" frameborder="0" allow="picture-in-picture" allowfullscreen></iframe>
+<iframe width="672" height="378" src="https://www.youtube.com/embed/LB1w8hjBt5k" title="Red Hat Developer Hub(RHDH) Overview" frameborder="0" allow="picture-in-picture" allowfullscreen></iframe>
