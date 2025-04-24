@@ -20,7 +20,7 @@ This section highlights the core features of our system.
 
 # Emojis
 
-rocket: :tada: :rocket:
+:tada: :rocket:
 
 # Code blocks
 
