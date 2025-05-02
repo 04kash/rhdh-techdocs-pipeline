@@ -2,6 +2,8 @@
 
 !!! note
 
+## Demo!
+
 These docs are purely for demonstration purposes.
 
 
